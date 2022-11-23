@@ -1,0 +1,6 @@
+com\itfactory\data\DataLoader.class
+com\itfactory\utils\DataUtils.class
+com\itfactory\utils\GestiuneCursuri.class
+com\itfactory\data\DataSaver.class
+com\itfactory\model\Course.class
+com\itfactory\model\Student.class
